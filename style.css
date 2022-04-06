@@ -1,4 +1,9 @@
-
+.container{
+    margin-bottom: 50px;
+}
+.body{
+    background-color: #E5E5E5;
+}
 .top-banner{
     height: 576px;
     left: 0px;
@@ -61,7 +66,7 @@ text-align: left;
 .half-width-left a:hover{
     color: white;
 }
-.col-3 img{
+.col-2 img{
     width: 66px;
     height: 85px;
     margin-top: 42px;
@@ -73,4 +78,71 @@ text-align: left;
     width: 270px;
     height: 270px;
     border-radius: 15px;
+}
+.topic2{
+    width: 270px;
+    height: 270px;
+    box-shadow: 2px 2px 5px lightgrey;
+    border-radius: 15px;
+}
+.top{
+    margin-right: 100px;
+}
+.online-course{
+    text-align: center;
+}
+.card img{
+    padding: 10px;
+}
+.card{
+    border-radius: 10px;
+}
+.buy-course{
+    padding: 1px 15px 6px 21px;
+    margin-top: 10px;
+    background-color: #21B573;
+    border-radius: 25px;
+    color: white;
+}
+.card a{
+    text-decoration: none;
+}
+.card a:hover{
+    color: white;
+}
+.start img{
+    width: 25px;
+    height: 25px;
+    padding: 0 !important;
+    margin-bottom: 14px;
+}
+.start .seat{
+    font-weight: 500;
+}
+
+.start{
+   display: flex;
+   margin-top: 35px;
+}
+.testi{
+    text-align: center;
+}
+.cont img{
+    width: 32% !important;
+    margin-left: 270px;
+    margin-top: 33px;
+}
+.te{
+    height: 62px;
+    width: 580px;
+    margin-left: 13px;
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
 }
