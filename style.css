@@ -1,6 +1,4 @@
-.container{
-    margin-bottom: 50px;
-}
+
 .body{
     background-color: #E5E5E5;
 }
@@ -66,6 +64,9 @@ text-align: left;
 .half-width-left a:hover{
     color: white;
 }
+.secound{
+    margin-bottom: 70px;
+}
 .col-2 img{
     width: 66px;
     height: 85px;
@@ -89,7 +90,7 @@ text-align: left;
     margin-right: 100px;
 }
 .online-course{
-    text-align: center;
+    height: 560px;
 }
 .card img{
     padding: 10px;
@@ -124,8 +125,13 @@ text-align: left;
    display: flex;
    margin-top: 35px;
 }
+.testimonial{
+    height: 350px;
+}
 .testi{
     text-align: center;
+    margin-bottom: 30px;
+    margin-top: 25px;
 }
 .cont img{
     width: 32% !important;
@@ -142,7 +148,46 @@ font-weight: 400;
 line-height: 30px;
 letter-spacing: 0em;
 text-align: left;
+}
+.foot{
+    background-color: #282531;
+    height: 414px;
+}
+.sec1{
+    height: 160px;
+    width: 364px;
+    margin-top: 75px;
+    color: white;
+    margin-right: 30px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+.sec2{
+    color: white;
+    margin-top: 39px;
+    line-height: 25px;
+}
+.head{
+    font-weight: 700;
+    font-size: 23px;
+    margin-left: 5px;
+
+}
+footer p{
+    color: white;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 100px;
+    letter-spacing: 2px;
 
 
+}
 
+.foot2{
+    margin-bottom: 0 !important;
 }
