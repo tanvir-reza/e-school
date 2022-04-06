@@ -1,0 +1,193 @@
+
+.body{
+    background-color: #E5E5E5;
+}
+.top-banner{
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background-color: #F0FFF0; 
+    margin-bottom: 100px;
+}
+.banner-content{
+    height: 500px;
+}
+.top-banner img{
+    width: 120px !important;
+}
+.top-banner ul li a{
+    font-weight: 600;
+}
+.signin{
+    padding: 0px 12px 0px 12px;
+    background-color: #21B573;
+    border-radius: 25px;
+}
+.learn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 50px;
+    color: #000000;
+}
+.learn span{
+    color: #21B573;
+    
+}
+.ready{
+    color: #FD511A;
+    
+}
+.lorem{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 50px;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.get-started{
+    padding: 13px 20px 14px 20px;
+    margin-top: 10px;
+    background-color: #21B573;
+    border-radius: 25px;
+    
+    color: white;
+}
+.half-width-left a{
+    text-decoration: none;
+}
+.half-width-left a:hover{
+    color: white;
+}
+.secound{
+    margin-bottom: 70px;
+}
+.col-2 img{
+    width: 66px;
+    height: 85px;
+    margin-top: 42px;
+    margin-bottom: 15px;
+
+}
+.topic{
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+    border-radius: 15px;
+}
+.topic2{
+    width: 270px;
+    height: 270px;
+    box-shadow: 2px 2px 5px lightgrey;
+    border-radius: 15px;
+}
+.top{
+    margin-right: 100px;
+}
+.online-course{
+    height: 560px;
+}
+.card img{
+    padding: 10px;
+}
+.card{
+    border-radius: 10px;
+}
+.buy-course{
+    padding: 1px 15px 6px 21px;
+    margin-top: 10px;
+    background-color: #21B573;
+    border-radius: 25px;
+    color: white;
+}
+.card a{
+    text-decoration: none;
+}
+.card a:hover{
+    color: white;
+}
+.start img{
+    width: 25px;
+    height: 25px;
+    padding: 0 !important;
+    margin-bottom: 14px;
+}
+.start .seat{
+    font-weight: 500;
+}
+
+.start{
+   display: flex;
+   margin-top: 35px;
+}
+.testimonial{
+    height: 350px;
+}
+.testi{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 25px;
+}
+.cont img{
+    width: 32% !important;
+    margin-left: 270px;
+    margin-top: 33px;
+}
+.te{
+    height: 62px;
+    width: 580px;
+    margin-left: 13px;
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+}
+.foot{
+    background-color: #282531;
+    height: 414px;
+}
+.sec1{
+    height: 160px;
+    width: 364px;
+    margin-top: 75px;
+    color: white;
+    margin-right: 30px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 25px;
+    letter-spacing: 1px;
+}
+.sec2{
+    color: white;
+    margin-top: 39px;
+    line-height: 25px;
+}
+.head{
+    font-weight: 700;
+    font-size: 23px;
+    margin-left: 5px;
+
+}
+footer p{
+    color: white;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 100px;
+    letter-spacing: 2px;
+
+
+}
+
+.foot2{
+    margin-bottom: 0 !important;
+}
